@@ -16,7 +16,7 @@ The current implementation focuses on building a deployment-site database for Ni
 - Slope calculation
 
 ## Repository contents
-
+''
 data/              # Raw and processed input datasets (large files stored externally)
 notebooks/         # Step-by-step processing workflow
 outputs/           # Sample outputs produced by the workflow
