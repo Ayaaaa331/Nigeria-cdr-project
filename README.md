@@ -16,7 +16,7 @@ The current implementation focuses on building a deployment-site database for Ni
 - Slope calculation
 
 ## Repository contents
-''
+```
 data/              # Raw and processed input datasets (large files stored externally)
 notebooks/         # Step-by-step processing workflow
 outputs/           # Sample outputs produced by the workflow
@@ -24,6 +24,7 @@ scripts/           # Standalone processing scripts (future)
 requirements.txt   # Python package dependencies
 README.md          # Project documentation
 .gitignore         # Files excluded from version control
+```
 
 ## Outputs
 
