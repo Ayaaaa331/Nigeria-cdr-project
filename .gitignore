@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Large outputs
+outputs/maps/
+outputs/tables/*.csv
+
+# Keep sample CSVs
+!outputs/tables/*sample*.csv
+
+# VS Code
+.vscode/
